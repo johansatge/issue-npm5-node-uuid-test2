@@ -1,0 +1,7 @@
+{
+  "name": "test-npm5",
+  "version": "1.0.0",
+  "dependencies": {
+    "issue-npm5-node-uuid-package1": "github:johansatge/issue-npm5-node-uuid-package1"
+  }
+}
